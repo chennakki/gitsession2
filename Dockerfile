@@ -1,4 +1,4 @@
-FROM ngnix
+FROM nginx
 MAINTAINER vasanth
 LABEL this is my docker container image creating from jenkins
 EXPOSE 80
